@@ -1,7 +1,7 @@
 Якоимов Филипп  
 ============
   
-![display:block;margin:auto|](Filipp.png)
+![](Filipp.png)
 
 
 Образование:
